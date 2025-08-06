@@ -8,6 +8,18 @@
           "link": "https://www.naukri.com/code360/problems/reverse-an-array_8365444"
         },
         {
+          "name":"Check is number is prime or not",
+          "link":"https://www.naukri.com/code360/problems/check-prime_624674"
+        },
+        {
+          "name":"Revserse Integer",
+          "link":"https://leetcode.com/problems/reverse-integer/description/"
+        },
+        {
+          "name":"Set kth bit",
+          "link":"https://www.geeksforgeeks.org/problems/set-kth-bit3724/1"
+        },
+        {
           "name": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
           "link": "https://leetcode.com/problems/sort-colors/"
         },
@@ -26,6 +38,10 @@
         {
           "name": "Median of 2 sorted arrays of equal size",
           "link": "https://practice.geeksforgeeks.org/problems/find-the-median0527/1"
+        },
+        {
+            "name":"Find Unique in an array",
+            "link":"https://www.naukri.com/code360/problems/find-unique_625159"
         },
         {
           "name": "find all pairs on integer array whose sum is equal to given number",
@@ -48,6 +64,10 @@
         {
           "name": "Move all the negative elements to one side of the array",
           "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
+        },
+        {
+          "name":"Set k bits",
+          "link":"https://www.naukri.com/code360/problems/set-k-bits_972999"
         },
         {
           "name": "find Largest sum contiguous Subarray [V. IMP]",
