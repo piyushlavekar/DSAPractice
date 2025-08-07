@@ -20,6 +20,26 @@
           "link":"https://www.geeksforgeeks.org/problems/set-kth-bit3724/1"
         },
         {
+          "name":"Missing Number ",
+          "link":"https://leetcode.com/problems/missing-number/description/"
+        },
+        {
+            "name":"First Repeating Element",
+            "link":"https://www.geeksforgeeks.org/problems/first-repeating-element4018/1"
+        },
+        {
+          "name":"Contains Duplicate",
+          "link":"https://leetcode.com/problems/contains-duplicate/description/"
+        },
+        {
+          "name":"Two Sum",
+          "link":"https://leetcode.com/problems/two-sum/description/"
+        },
+        {
+          "name":"Remove Duplicates from Sorted Array",
+          "link":"https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
+        },
+        {
           "name": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
           "link": "https://leetcode.com/problems/sort-colors/"
         },
@@ -92,6 +112,10 @@
         {
           "name": "Next Permutation",
           "link": "https://leetcode.com/problems/next-permutation/"
+        },
+        {
+          "name":"Missing And Repeating",
+          "link":"https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
         },
         {
           "name": "Rearrange the array in alternating positive and negative items with O(1) extra space",
