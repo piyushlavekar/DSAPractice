@@ -8,36 +8,36 @@
           "link": "https://www.naukri.com/code360/problems/reverse-an-array_8365444"
         },
         {
-          "name":"Check is number is prime or not",
-          "link":"https://www.naukri.com/code360/problems/check-prime_624674"
+          "name": "Check is number is prime or not",
+          "link": "https://www.naukri.com/code360/problems/check-prime_624674"
         },
         {
-          "name":"Revserse Integer",
-          "link":"https://leetcode.com/problems/reverse-integer/description/"
+          "name": "Revserse Integer",
+          "link": "https://leetcode.com/problems/reverse-integer/description/"
         },
         {
-          "name":"Set kth bit",
-          "link":"https://www.geeksforgeeks.org/problems/set-kth-bit3724/1"
+          "name": "Set kth bit",
+          "link": "https://www.geeksforgeeks.org/problems/set-kth-bit3724/1"
         },
         {
-          "name":"Missing Number ",
-          "link":"https://leetcode.com/problems/missing-number/description/"
+          "name": "Missing Number ",
+          "link": "https://leetcode.com/problems/missing-number/description/"
         },
         {
-            "name":"First Repeating Element",
-            "link":"https://www.geeksforgeeks.org/problems/first-repeating-element4018/1"
+          "name": "First Repeating Element",
+          "link": "https://www.geeksforgeeks.org/problems/first-repeating-element4018/1"
         },
         {
-          "name":"Contains Duplicate",
-          "link":"https://leetcode.com/problems/contains-duplicate/description/"
+          "name": "Contains Duplicate",
+          "link": "https://leetcode.com/problems/contains-duplicate/description/"
         },
         {
-          "name":"Two Sum",
-          "link":"https://leetcode.com/problems/two-sum/description/"
+          "name": "Two Sum",
+          "link": "https://leetcode.com/problems/two-sum/description/"
         },
         {
-          "name":"Remove Duplicates from Sorted Array",
-          "link":"https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
+          "name": "Remove Duplicates from Sorted Array",
+          "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
         },
         {
           "name": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
@@ -60,8 +60,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/find-the-median0527/1"
         },
         {
-            "name":"Find Unique in an array",
-            "link":"https://www.naukri.com/code360/problems/find-unique_625159"
+          "name": "Find Unique in an array",
+          "link": "https://www.naukri.com/code360/problems/find-unique_625159"
         },
         {
           "name": "find all pairs on integer array whose sum is equal to given number",
@@ -86,8 +86,12 @@
           "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
         },
         {
-          "name":"Set k bits",
-          "link":"https://www.naukri.com/code360/problems/set-k-bits_972999"
+          "name": "Set k bits",
+          "link": "https://www.naukri.com/code360/problems/set-k-bits_972999"
+        },
+        {
+          "name": "Add two numbers represented by arrays.",
+          "link": "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1"
         },
         {
           "name": "find Largest sum contiguous Subarray [V. IMP]",
@@ -114,8 +118,8 @@
           "link": "https://leetcode.com/problems/next-permutation/"
         },
         {
-          "name":"Missing And Repeating",
-          "link":"https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+          "name": "Missing And Repeating",
+          "link": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
         },
         {
           "name": "Rearrange the array in alternating positive and negative items with O(1) extra space",
@@ -1455,6 +1459,14 @@
         {
           "name": "Merge 2 sorted arrays",
           "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+        },
+        {
+          "name": "Find first and last positions of an element in a sorted array",
+          "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
+        },
+        {
+          "name": "Find Peak Element",
+          "link": "https://leetcode.com/problems/find-peak-element/description/"
         }
       ],
       "Medium": [
@@ -1465,6 +1477,10 @@
         {
           "name": "Square root of an integer",
           "link": "https://practice.geeksforgeeks.org/problems/square-root/1"
+        },
+        {
+          "name": "K-th smallest number (again)",
+          "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/"
         },
         {
           "name": "Maximum and minimum of an array using minimum number of comparisons",
@@ -1521,13 +1537,13 @@
         {
           "name": "Implement in-place merge sort",
           "link": "https://www.geeksforgeeks.org/in-place-merge-sort/"
+        },
+        {
+          "name": "Find pivot element in a sorted array",
+          "link": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
         }
       ],
       "Hard": [
-        {
-          "name": "Find first and last positions of an element in a sorted array",
-          "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
-        },
         {
           "name": "Find a fixed point (value equals index) in an array",
           "link": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
@@ -1551,14 +1567,6 @@
         {
           "name": "Rasta and Kheshtak",
           "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/"
-        },
-        {
-          "name": "K-th smallest number (again)",
-          "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/"
-        },
-        {
-          "name": "Find pivot element in a sorted array",
-          "link": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
         },
         {
           "name": "Aggressive cows",
