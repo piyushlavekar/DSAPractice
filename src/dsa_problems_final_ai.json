@@ -1465,8 +1465,15 @@
           "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
         },
         {
+          "name":"Peak Index in Mountain array ",
+          "link":"https://leetcode.com/problems/peak-index-in-a-mountain-array/description/"
+        },
+        {
           "name": "Find Peak Element",
           "link": "https://leetcode.com/problems/find-peak-element/description/"
+        },{
+          "name":"Find Pivote Index",
+          "link":"https://leetcode.com/problems/find-pivot-index/description/"
         }
       ],
       "Medium": [
@@ -1537,10 +1544,6 @@
         {
           "name": "Implement in-place merge sort",
           "link": "https://www.geeksforgeeks.org/in-place-merge-sort/"
-        },
-        {
-          "name": "Find pivot element in a sorted array",
-          "link": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
         }
       ],
       "Hard": [
