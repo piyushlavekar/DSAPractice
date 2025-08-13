@@ -102,8 +102,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
         },
         {
-          "name": "Minimise the maximum difference between heights [V.IMP]",
-          "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1"
+          "name":"Minimize the Heights I",
+          "link":"https://www.geeksforgeeks.org/problems/minimize-the-heights-i/1"
         },
         {
           "name": "Merge 2 sorted arrays without using Extra space.",
@@ -166,6 +166,10 @@
         {
           "name": "Count Inversion",
           "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0"
+        },
+          {
+          "name": "Minimise the maximum difference between heights II [V.IMP]",
+          "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1"
         },
         {
           "name": "Find if there is any subarray with sum equal to 0",
@@ -1459,6 +1463,10 @@
         {
           "name": "Merge 2 sorted arrays",
           "link": "https://www.naukri.com/code360/problems/merge-two-sorted-arrays-without-extra-space_6898839"
+        },
+        {
+          "name": "Binary Search ",
+          "link": "https://leetcode.com/problems/binary-search/description/"
         },
         {
           "name": "Find first and last positions of an element in a sorted array",
