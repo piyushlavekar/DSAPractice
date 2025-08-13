@@ -76,6 +76,10 @@
           "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
         },
         {
+          "name": "Find whether an array is a subset of another array",
+          "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0"
+        },
+        {
           "name": "Find the \"Kth\" max and min element of an array",
           "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
         }
@@ -103,7 +107,7 @@
         },
         {
           "name": "Merge 2 sorted arrays without using Extra space.",
-          "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+          "link": "https://leetcode.com/problems/merge-sorted-array/description/"
         },
         {
           "name": "Kadane's Algo [V.V.V.V.V IMP]",
@@ -146,10 +150,6 @@
           "link": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0"
         },
         {
-          "name": "Median of 2 sorted arrays of different size",
-          "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
-        },
-        {
           "name": "Find longest coinsecutive subsequence",
           "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0"
         },
@@ -176,8 +176,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0"
         },
         {
-          "name": "Find whether an array is a subset of another array",
-          "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0"
+          "name": "Median of 2 sorted arrays of different size",
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/"
         },
         {
           "name": "Find the triplet that sum to a given value",
@@ -1458,22 +1458,23 @@
       "Easy": [
         {
           "name": "Merge 2 sorted arrays",
-          "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+          "link": "https://www.naukri.com/code360/problems/merge-two-sorted-arrays-without-extra-space_6898839"
         },
         {
           "name": "Find first and last positions of an element in a sorted array",
           "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
         },
         {
-          "name":"Peak Index in Mountain array ",
-          "link":"https://leetcode.com/problems/peak-index-in-a-mountain-array/description/"
+          "name": "Peak Index in Mountain array ",
+          "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array/description/"
         },
         {
           "name": "Find Peak Element",
           "link": "https://leetcode.com/problems/find-peak-element/description/"
-        },{
-          "name":"Find Pivote Index",
-          "link":"https://leetcode.com/problems/find-pivot-index/description/"
+        },
+        {
+          "name": "Find Pivote Index",
+          "link": "https://leetcode.com/problems/find-pivot-index/description/"
         }
       ],
       "Medium": [
