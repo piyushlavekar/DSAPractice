@@ -1263,12 +1263,11 @@
           "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1"
         },
         {
-          "name": "Deletion from a Circular Linked List.",
-          "link": "https://www.geeksforgeeks.org/deletion-circular-linked-list/"
-        },
-        {
           "name": "Program for n’th node from the end of a Linked List",
           "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
+        },{
+          "name":"Delete node in linkedlist",
+          "link":"https://leetcode.com/problems/delete-node-in-a-linked-list/description/"
         }
       ],
       "Medium": [
@@ -1279,6 +1278,10 @@
         {
           "name": "Write a program to Delete loop in a linked list.",
           "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+        },
+        {
+          "name":"Deletion and reverse in circular linked list.",
+          "link":"https://www.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1"
         },
         {
           "name": "Add “1” to a number represented as a Linked List.",
@@ -1814,6 +1817,10 @@
         {
           "name": "Print all Subsequences of a string.",
           "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
+        },
+        {
+          "name":"Remove Duplicate letters from a string",
+          "link": "https://leetcode.com/problems/remove-duplicate-letters/"
         },
         {
           "name": "Print all the permutations of the given string",
