@@ -1801,8 +1801,15 @@
           "link": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"
         },
         {
-          "name": "Find Duplicate characters in a string",
-          "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+          "name": "Shuffle String I ",
+          "link": "https://leetcode.com/problems/shuffle-string/"
+        },
+        {
+          "name":"Replace Spaces",
+          "link":"https://www.naukri.com/code360/problems/replace-spaces_1172172?count=25&page=2&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
+        },{
+          "name":"Add Strings",
+          "link":"https://leetcode.com/problems/add-strings/description/"
         }
       ],
       "Medium": [
@@ -1810,21 +1817,22 @@
           "name": "Write a Code to check whether one string is a rotation of another",
           "link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
         },
-        {
-          "name": "Write a Program to check whether a string is a valid shuffle of two strings or not",
-          "link": "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings"
-        },
+      
         {
           "name": "Print all Subsequences of a string.",
           "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
         },
         {
-          "name":"Remove Duplicate letters from a string",
-          "link": "https://leetcode.com/problems/remove-duplicate-letters/"
+          "name":"Minimum insertions to make a string palindrome",
+          "link":"https://www.naukri.com/code360/problems/minimum-insertions-to-make-palindrome_985293?count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         },
         {
           "name": "Print all the permutations of the given string",
           "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+        },
+                {
+          "name": "Find Duplicate characters in a string",
+          "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
         },
         {
           "name": "Split the Binary string into two substring with equal 0’s and 1’s",
@@ -1889,8 +1897,8 @@
       ],
       "Hard": [
         {
-          "name": "Why strings are immutable in Java?",
-          "link": "<->"
+          "name": "Shuffle String II ",
+          "link": "https://www.naukri.com/code360/problems/shuffle-two-strings_1115692"
         },
         {
           "name": "Count and Say problem",
