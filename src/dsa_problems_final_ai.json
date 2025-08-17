@@ -102,8 +102,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
         },
         {
-          "name":"Minimize the Heights I",
-          "link":"https://www.geeksforgeeks.org/problems/minimize-the-heights-i/1"
+          "name": "Minimize the Heights I",
+          "link": "https://www.geeksforgeeks.org/problems/minimize-the-heights-i/1"
         },
         {
           "name": "Merge 2 sorted arrays without using Extra space.",
@@ -167,7 +167,11 @@
           "name": "Count Inversion",
           "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0"
         },
-          {
+        {
+          "name": "Find four elements that sum to a given value",
+          "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0"
+        },
+        {
           "name": "Minimise the maximum difference between heights II [V.IMP]",
           "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1"
         },
@@ -1265,9 +1269,10 @@
         {
           "name": "Program for n’th node from the end of a Linked List",
           "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
-        },{
-          "name":"Delete node in linkedlist",
-          "link":"https://leetcode.com/problems/delete-node-in-a-linked-list/description/"
+        },
+        {
+          "name": "Delete node in linkedlist",
+          "link": "https://leetcode.com/problems/delete-node-in-a-linked-list/description/"
         }
       ],
       "Medium": [
@@ -1280,8 +1285,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
         },
         {
-          "name":"Deletion and reverse in circular linked list.",
-          "link":"https://www.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1"
+          "name": "Deletion and reverse in circular linked list.",
+          "link": "https://www.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1"
         },
         {
           "name": "Add “1” to a number represented as a Linked List.",
@@ -1486,6 +1491,14 @@
         {
           "name": "Find Pivote Index",
           "link": "https://leetcode.com/problems/find-pivot-index/description/"
+        },
+        {
+          "name": "Searching in an array where adjacent differ by at most k",
+          "link": "https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1"
+        },
+        {
+          "name": "Find a pair with a given difference",
+          "link": "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0"
         }
       ],
       "Medium": [
@@ -1496,6 +1509,18 @@
         {
           "name": "Square root of an integer",
           "link": "https://practice.geeksforgeeks.org/problems/square-root/1"
+        },
+        {
+          "name": "Divide two numbers",
+          "link": "https://leetcode.com/problems/divide-two-integers/description/"
+        },
+        {
+          "name": "Find k-closest elements",
+          "link": "https://leetcode.com/problems/find-k-closest-elements/description/"
+        },
+        {
+          "name": "Nearly sorted",
+          "link": "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1"
         },
         {
           "name": "K-th smallest number (again)",
@@ -1512,10 +1537,6 @@
         {
           "name": "Find majority element",
           "link": "https://practice.geeksforgeeks.org/problems/majority-element/0"
-        },
-        {
-          "name": "Find four elements that sum to a given value",
-          "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0"
         },
         {
           "name": "Maximum sum such that no 2 elements are adjacent",
@@ -1554,6 +1575,10 @@
           "link": "https://www.spoj.com/problems/SUBSUMS/"
         },
         {
+          "name": "K-diff Pairs in an Array",
+          "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description"
+        },
+        {
           "name": "Implement in-place merge sort",
           "link": "https://www.geeksforgeeks.org/in-place-merge-sort/"
         }
@@ -1566,14 +1591,6 @@
         {
           "name": "Find the repeating and the missing number",
           "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
-        },
-        {
-          "name": "Searching in an array where adjacent differ by at most k",
-          "link": "https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1"
-        },
-        {
-          "name": "Find a pair with a given difference",
-          "link": "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0"
         },
         {
           "name": "Product array puzzle",
@@ -1805,11 +1822,12 @@
           "link": "https://leetcode.com/problems/shuffle-string/"
         },
         {
-          "name":"Replace Spaces",
-          "link":"https://www.naukri.com/code360/problems/replace-spaces_1172172?count=25&page=2&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
-        },{
-          "name":"Add Strings",
-          "link":"https://leetcode.com/problems/add-strings/description/"
+          "name": "Replace Spaces",
+          "link": "https://www.naukri.com/code360/problems/replace-spaces_1172172?count=25&page=2&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
+        },
+        {
+          "name": "Add Strings",
+          "link": "https://leetcode.com/problems/add-strings/description/"
         }
       ],
       "Medium": [
@@ -1817,20 +1835,19 @@
           "name": "Write a Code to check whether one string is a rotation of another",
           "link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
         },
-      
         {
           "name": "Print all Subsequences of a string.",
           "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
         },
         {
-          "name":"Minimum insertions to make a string palindrome",
-          "link":"https://www.naukri.com/code360/problems/minimum-insertions-to-make-palindrome_985293?count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
+          "name": "Minimum insertions to make a string palindrome",
+          "link": "https://www.naukri.com/code360/problems/minimum-insertions-to-make-palindrome_985293?count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         },
         {
           "name": "Print all the permutations of the given string",
           "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
         },
-                {
+        {
           "name": "Find Duplicate characters in a string",
           "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
         },
