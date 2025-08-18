@@ -82,6 +82,9 @@
         {
           "name": "Find the \"Kth\" max and min element of an array",
           "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
+        },{
+          "name":" Majority Element - II",
+          "link":"https://www.naukri.com/code360/problems/majority-element-ii_893027"
         }
       ],
       "Medium": [
@@ -156,6 +159,18 @@
         {
           "name": "find maximum product subarray",
           "link": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1"
+        },
+        {
+          "name":"Left Rotation of An Array",
+          "link":"https://www.naukri.com/code360/problems/left-rotations-of-an-array_985298"
+        },
+        {
+          "name":"Count Distinct Element in Every K Size Window",
+          "link":"https://www.naukri.com/code360/problems/count-distinct-element-in-every-k-size-window_920336"
+        },
+        {
+          "name":"Meetings II",
+          "link":"https://www.naukri.com/code360/problems/meeting-room-ii_893289"
         }
       ],
       "Hard": [
@@ -1273,6 +1288,10 @@
         {
           "name": "Delete node in linkedlist",
           "link": "https://leetcode.com/problems/delete-node-in-a-linked-list/description/"
+        },
+        {
+          "name":"Sort linked list of 0s 1s 2s",
+          "link":"https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         }
       ],
       "Medium": [
@@ -1307,6 +1326,10 @@
         {
           "name": "Merge Sort For Linked lists.[Very Important]",
           "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1"
+        },
+        {
+          "name":"Last Appearance",
+          "link":"https://www.naukri.com/code360/problems/last-appearance_763269?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         },
         {
           "name": "Find pairs with a given sum in a DLL.",
@@ -1521,6 +1544,10 @@
         {
           "name": "Nearly sorted",
           "link": "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1"
+        },
+        {
+          "name":"Signle Element in a Sorted Array",
+          "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
         },
         {
           "name": "K-th smallest number (again)",
