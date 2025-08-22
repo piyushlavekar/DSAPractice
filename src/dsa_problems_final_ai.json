@@ -1867,6 +1867,18 @@
           "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
         },
         {
+          "name":"Remove all occurence of a Substring",
+          "link":"https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/"
+        },
+        {
+          "name":"Valid Planindrome II",
+          "link":"https://leetcode.com/problems/valid-palindrome-ii/description/"
+        },
+        {
+          "name":"Minimum time difference",
+          "link":"https://leetcode.com/problems/minimum-time-difference/description/"
+        },
+        {
           "name": "Minimum insertions to make a string palindrome",
           "link": "https://www.naukri.com/code360/problems/minimum-insertions-to-make-palindrome_985293?count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         },
