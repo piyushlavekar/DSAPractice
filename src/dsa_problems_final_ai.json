@@ -82,9 +82,10 @@
         {
           "name": "Find the \"Kth\" max and min element of an array",
           "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
-        },{
-          "name":" Majority Element - II",
-          "link":"https://www.naukri.com/code360/problems/majority-element-ii_893027"
+        },
+        {
+          "name": " Majority Element - II",
+          "link": "https://www.naukri.com/code360/problems/majority-element-ii_893027"
         }
       ],
       "Medium": [
@@ -161,16 +162,16 @@
           "link": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1"
         },
         {
-          "name":"Left Rotation of An Array",
-          "link":"https://www.naukri.com/code360/problems/left-rotations-of-an-array_985298"
+          "name": "Left Rotation of An Array",
+          "link": "https://www.naukri.com/code360/problems/left-rotations-of-an-array_985298"
         },
         {
-          "name":"Count Distinct Element in Every K Size Window",
-          "link":"https://www.naukri.com/code360/problems/count-distinct-element-in-every-k-size-window_920336"
+          "name": "Count Distinct Element in Every K Size Window",
+          "link": "https://www.naukri.com/code360/problems/count-distinct-element-in-every-k-size-window_920336"
         },
         {
-          "name":"Meetings II",
-          "link":"https://www.naukri.com/code360/problems/meeting-room-ii_893289"
+          "name": "Meetings II",
+          "link": "https://www.naukri.com/code360/problems/meeting-room-ii_893289"
         }
       ],
       "Hard": [
@@ -1290,8 +1291,8 @@
           "link": "https://leetcode.com/problems/delete-node-in-a-linked-list/description/"
         },
         {
-          "name":"Sort linked list of 0s 1s 2s",
-          "link":"https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
+          "name": "Sort linked list of 0s 1s 2s",
+          "link": "https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         }
       ],
       "Medium": [
@@ -1328,8 +1329,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1"
         },
         {
-          "name":"Last Appearance",
-          "link":"https://www.naukri.com/code360/problems/last-appearance_763269?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
+          "name": "Last Appearance",
+          "link": "https://www.naukri.com/code360/problems/last-appearance_763269?topList=top-array-coding-interview-questions&problemListRedirection=true&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav"
         },
         {
           "name": "Find pairs with a given sum in a DLL.",
@@ -1546,7 +1547,7 @@
           "link": "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1"
         },
         {
-          "name":"Signle Element in a Sorted Array",
+          "name": "Signle Element in a Sorted Array",
           "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
         },
         {
@@ -1855,6 +1856,34 @@
         {
           "name": "Add Strings",
           "link": "https://leetcode.com/problems/add-strings/description/"
+        },
+        {
+          "name": "Valid Anagram",
+          "link": "https://leetcode.com/problems/valid-anagram/description/"
+        },
+        {
+          "name": "Reverse Only Letters",
+          "link": "https://leetcode.com/problems/reverse-only-letters/description/"
+        },
+        {
+          "name": "Reverse only Vowels of a String",
+          "link": "https://leetcode.com/problems/reverse-vowels-of-a-string/description/"
+        },
+        {
+          "name": "Longest Common Prefix",
+          "link": "https://leetcode.com/problems/longest-common-prefix/description/"
+        },
+        {
+          "name": "Roman to Integer",
+          "link": "https://leetcode.com/problems/roman-to-integer/description/"
+        },
+          {
+          "name":"Verifying an Alien Dictionary",
+          "link":"https://leetcode.com/problems/verifying-an-alien-dictionary/description/"
+        },
+        {
+          "name": "Isomorphic Strings",
+          "link": "https://leetcode.com/problems/isomorphic-strings/description/"
         }
       ],
       "Medium": [
@@ -1867,16 +1896,40 @@
           "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
         },
         {
-          "name":"Remove all occurence of a Substring",
-          "link":"https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/"
+          "name": "Remove all occurence of a Substring",
+          "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/"
         },
         {
-          "name":"Valid Planindrome II",
-          "link":"https://leetcode.com/problems/valid-palindrome-ii/description/"
+          "name": "Valid Planindrome II",
+          "link": "https://leetcode.com/problems/valid-palindrome-ii/description/"
         },
         {
-          "name":"Minimum time difference",
-          "link":"https://leetcode.com/problems/minimum-time-difference/description/"
+          "name": "Minimum time difference",
+          "link": "https://leetcode.com/problems/minimum-time-difference/description/"
+        },
+        {
+          "name": "Group Anagrams",
+          "link": "https://leetcode.com/problems/group-anagrams/description/"
+        },
+        {
+          "name": "String Compression",
+          "link": "https://leetcode.com/problems/string-compression/description/"
+        },
+        {
+          "name": "Integer to roman",
+          "link": "https://leetcode.com/problems/integer-to-roman/description/"
+        },
+        {
+          "name":"Largest Number ",
+          "link": "https://leetcode.com/problems/largest-number/description/"
+        },
+        {
+          "name":"Custom Sort String",
+          "link":"https://leetcode.com/problems/custom-sort-string/description/"
+        },
+        {
+          "name":"Longest Word in Dictionary through Deleting",
+          "link":"https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/"
         },
         {
           "name": "Minimum insertions to make a string palindrome",
@@ -1889,6 +1942,10 @@
         {
           "name": "Remove Duplicate characters in a string",
           "link": "https://www.naukri.com/code360/problems/remove-duplicates-from-string_630470"
+        },
+        {
+          "name": "Palindromic Substring ",
+          "link": "https://leetcode.com/problems/palindromic-substrings/description/"
         },
         {
           "name": "Split the Binary string into two substring with equal 0’s and 1’s",
