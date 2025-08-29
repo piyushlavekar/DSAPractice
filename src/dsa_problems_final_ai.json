@@ -1920,6 +1920,10 @@
           "link": "https://leetcode.com/problems/group-anagrams/description/"
         },
         {
+          "name":"String to Integer",
+          "link":"https://leetcode.com/problems/string-to-integer-atoi/description/"
+        },
+        {
           "name": "String Compression",
           "link": "https://leetcode.com/problems/string-compression/description/"
         },
