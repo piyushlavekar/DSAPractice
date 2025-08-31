@@ -1,32 +1,3 @@
-// import React from "react";
-
-// export const TopicIcon = ({ className }) => (
-//   <svg
-//     xmlns="http://www.w3.org/2000/svg"
-//     className={className}
-//     viewBox="0 0 20 20"
-//     fill="currentColor"
-//   >
-//     <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 16c1.255 0 2.443-.29 3.5-.804V4.804zM14.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 0114.5 16c1.255 0 2.443-.29 3.5-.804V4.804A7.968 7.968 0 0014.5 4z" />
-//   </svg>
-// );
-
-// export const CheckCircleIcon = ({ className }) => (
-//   <svg
-//     xmlns="http://www.w3.org/2000/svg"
-//     className={className}
-//     fill="none"
-//     viewBox="0 0 24 24"
-//     stroke="currentColor"
-//   >
-//     <path
-//       strokeLinecap="round"
-//       strokeLinejoin="round"
-//       strokeWidth={2}
-//       d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-//     />
-//   </svg>
-// );
 
 import React from 'react';
 

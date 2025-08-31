@@ -1,18 +1,4 @@
-// import React from 'react';
 
-// const Header = () => {
-//   return (
-//     <header className="bg-gray-800/70 backdrop-blur-sm sticky top-0 z-20 border-b border-gray-700">
-//       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-//         <h1 className="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-500">
-//           Love Babbar's DSA Sheet
-//         </h1>
-//       </div>
-//     </header>
-//   );
-// };
-
-// export default Header;
 
 import React from 'react';
 import { MenuIcon } from './icons'; // 1. MenuIcon ला icons.jsx मधून इम्पोर्ट करा

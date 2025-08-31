@@ -1,25 +1,4 @@
-// import React from 'react';
-// import { CheckCircleIcon } from './icons';
 
-// const ProblemItem = ({ problem, index, isDone, onToggle }) => {
-//   return (
-//     <div className="p-4 flex items-center justify-between hover:bg-gray-700/50 transition-colors duration-200">
-//       <div className="flex items-center">
-//         <span className="text-gray-500 font-mono text-sm w-8 text-right mr-4">{index + 1}.</span>
-//         <p className="text-gray-200">{problem.name}</p>
-//       </div>
-//       <button onClick={onToggle} className="flex-shrink-0">
-//         {isDone ? (
-//           <CheckCircleIcon className="h-7 w-7 text-green-500" />
-//         ) : (
-//           <div className="h-7 w-7 rounded-full border-2 border-gray-600 group-hover:border-indigo-500 transition-all"></div>
-//         )}
-//       </button>
-//     </div>
-//   );
-// };
-
-// export default ProblemItem;
 
 import React from 'react';
 // ▼▼▼ 1. LinkIcon ला इथे इम्पोर्ट करा ▼▼▼
