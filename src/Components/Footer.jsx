@@ -8,7 +8,7 @@ const Footer = () => {
           © {new Date().getFullYear()} All Rights Reserved.
         </p>
         <p className="text-sm text-gray-500 mt-1">
-          Made with ❤️ by <span className="font-semibold text-indigo-400">Piyush Lavekar</span>
+          Made by <span className="font-semibold text-indigo-400">Piyush</span>
         </p>
       </div>
     </footer>

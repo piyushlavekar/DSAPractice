@@ -1,1 +1,96 @@
 @import "tailwindcss";
+
+@layer components {
+  .highlight-problem {
+    @apply bg-indigo-900/60 ring-2 ring-indigo-500 rounded-lg;
+  }
+}
+
+
+/* src/index.css */
+/* Find your previous heatmap styles and replace them with these */
+
+.react-calendar-heatmap .color-empty {
+  fill: #2d333b; /* A dark gray for empty days */
+}
+
+/* New, more attractive color scale using the app's theme */
+.react-calendar-heatmap .color-scale-1 {
+  fill: #312e81; /* A very dark indigo */
+}
+.react-calendar-heatmap .color-scale-2 {
+  fill: #4338ca; /* A richer indigo */
+}
+.react-calendar-heatmap .color-scale-3 {
+  fill: #6366f1; /* A vibrant indigo */
+}
+.react-calendar-heatmap .color-scale-4 {
+  fill: #a78bfa; /* A lighter violet/purple for the highest activity */
+}
+
+/* Make text inside the calendar a bit more readable */
+.react-calendar-heatmap text {
+  font-size: 9px;
+  fill: #9ca3af; /* Tailwind's gray-400 */
+}
+
+
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0; /* Start off-screen to the left */
+  }
+  100% {
+    background-position: 1000px 0;  /* End off-screen to the right */
+  }
+}
+
+/* 2. Create a base class for the progress bar to hold the animation */
+.progress-bar-base {
+  /* This is the magic for the shimmer. We create a semi-transparent white gradient
+     on top of our main color gradient. */
+  background-image: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255, 255, 255, 0.2) 50%,
+    transparent 100%
+  );
+  background-repeat: no-repeat;
+  /* Make the background gradient extremely wide so the "shine" is a small part of it */
+  background-size: 1000px 100%; 
+  /* Apply the animation */
+  animation: shimmer 4s infinite linear;
+}
+
+/* 3. Define the two color states */
+.progress-bar-in-progress {
+  background-color: #6366f1; /* Fallback color */
+  background-image: 
+    linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.2) 50%, transparent 100%), /* Shimmer Layer */
+    linear-gradient(to right, #4f46e5, #7c3aed); /* Main Gradient: Indigo -> Purple */
+}
+
+.progress-bar-completed {
+  background-color: #10b981; /* Fallback color */
+  background-image: 
+    linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%), /* Shimmer Layer (slightly brighter) */
+    linear-gradient(to right, #10b981, #14b8a6); /* Main Gradient: Emerald -> Teal */
+}
+
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #4b5563; /* gray-600 */
+  border-radius: 20px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #6b7280; /* gray-500 */
+}
