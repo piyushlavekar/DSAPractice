@@ -84,8 +84,8 @@
           "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
         },
         {
-          "name": " Majority Element - II",
-          "link": "https://www.naukri.com/code360/problems/majority-element-ii_893027"
+          "name":" Majority Element - I",
+          "link":"https://leetcode.com/problems/majority-element/"
         }
       ],
       "Medium": [
@@ -96,6 +96,10 @@
         {
           "name": "Set k bits",
           "link": "https://www.naukri.com/code360/problems/set-k-bits_972999"
+        },
+        {
+          "name": " Majority Element - II",
+          "link": "https://leetcode.com/problems/majority-element-ii/description/"
         },
         {
           "name": "Add two numbers represented by arrays.",
