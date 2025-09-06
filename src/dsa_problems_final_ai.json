@@ -235,6 +235,10 @@
           "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
         },
         {
+          "name":"Climb Stairs",
+          "link":"https://leetcode.com/problems/climbing-stairs/description/"
+        },
+        {
           "name": "Rat in a maze Problem",
           "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
         },
