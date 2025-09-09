@@ -631,6 +631,10 @@
           "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1"
         },
         {
+          "name":"House Robber",
+          "link":"https://leetcode.com/problems/house-robber/description/"
+        },
+        {
           "name": "Maximum sum of pairs with specific difference",
           "link": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0"
         },
