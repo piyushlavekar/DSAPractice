@@ -1683,168 +1683,170 @@
       ]
     }
   },
-  {
-    "topic": "Stacks & Queues",
-    "problems": {
-      "Easy": [],
-      "Medium": [
-        {
-          "name": "Check the expression has valid or Balanced parenthesis or not.",
-          "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
-        },
-        {
-          "name": "Reverse a String using Stack",
-          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1"
-        },
-        {
-          "name": "Evaluation of Postfix expression",
-          "link": "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0"
-        },
-        {
-          "name": "Arithmetic Expression evaluation",
-          "link": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/"
-        },
-        {
-          "name": "Merge Overlapping Intervals",
-          "link": "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0"
-        },
-        {
-          "name": "Expression contains redundant bracket or not",
-          "link": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/"
-        },
-        {
-          "name": "Implement 2 stack in an array",
-          "link": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1"
-        },
-        {
-          "name": "Implement \"N\" stacks in an Array",
-          "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
-        },
-        {
-          "name": "Implement Stack using Queue",
-          "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1"
-        },
-        {
-          "name": "Implement Stack using Deque",
-          "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/"
-        },
-        {
-          "name": "Reverse a stack using recursion",
-          "link": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/"
-        },
-        {
-          "name": "Sort a Stack using recursion",
-          "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1"
-        },
-        {
-          "name": "Implement a method to insert an element at its bottom without using any other data structure.",
-          "link": "https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/"
-        },
-        {
-          "name": "Stack Permutations (Check if an array is stack permutation of other)",
-          "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
-        },
-        {
-          "name": "Implement Queue using Stack",
-          "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
-        },
-        {
-          "name": "Implement \"n\" queue in an array",
-          "link": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/"
-        },
-        {
-          "name": "Implement a Circular queue",
-          "link": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/"
-        },
-        {
-          "name": "Reverse a Queue using recursion",
-          "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1"
-        },
-        {
-          "name": "Interleave the first half of the queue with second half",
-          "link": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/"
-        },
-        {
-          "name": "Find the first circular tour that visits all Petrol Pumps",
-          "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1"
-        },
-        {
-          "name": "Distance of nearest cell having 1 in a binary matrix",
-          "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0"
-        },
-        {
-          "name": "First negative integer in every window of size “k”",
-          "link": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0"
-        },
-        {
-          "name": "Check if all levels of two trees are anagrams or not.",
-          "link": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/"
-        },
-        {
-          "name": "Sum of minimum and maximum elements of all subarrays of size “k”.",
-          "link": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
-        },
-        {
-          "name": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
-          "link": "https://practice.geeksforgeeks.org/problems/game-with-string/0"
-        },
-        {
-          "name": "Next Smaller Element",
-          "link": "https://www.geeksforgeeks.org/next-smaller-element/"
-        }
-      ],
-      "Hard": [
-        {
-          "name": "Implement Stack from Scratch",
-          "link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
-        },
-        {
-          "name": "Implement Queue from Scratch",
-          "link": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
-        },
-        {
-          "name": "find the middle element of a stack",
-          "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
-        },
-        {
-          "name": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
-          "link": "https://practice.geeksforgeeks.org/problems/special-stack/1"
-        },
-        {
-          "name": "Find the next Greater element",
-          "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
-        },
-        {
-          "name": "The celebrity Problem",
-          "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1"
-        },
-        {
-          "name": "Largest rectangular Area in Histogram",
-          "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0"
-        },
-        {
-          "name": "Length of the Longest Valid Substring",
-          "link": "https://practice.geeksforgeeks.org/problems/valid-substring0624/1"
-        },
-        {
-          "name": "LRU Cache Implementation",
-          "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
-        },
-        {
-          "name": "Reverse the first “K” elements of a queue",
-          "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1"
-        },
-        {
-          "name": "Minimum time required to rot all oranges",
-          "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0"
-        },
-        {
-          "name": "Queue based approach for first non-repeating character in a stream.",
-          "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
-        }
-      ]
-    }
-  },
+{
+  "topic": "Stacks & Queues",
+  "problems": {
+    "Easy": [
+      {
+        "name": "Check the expression has valid or Balanced parenthesis or not.",
+        "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+      },
+      {
+        "name": "Reverse a String using Stack",
+        "link": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1"
+      },
+      {
+        "name": "Evaluation of Postfix expression",
+        "link": "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0"
+      },
+      {
+        "name": "Implement 2 stack in an array",
+        "link": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1"
+      },
+      {
+        "name": "Implement Stack using Queue",
+        "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1"
+      },
+      {
+        "name": "Implement Queue using Stack",
+        "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+      },
+      {
+        "name": "Reverse a stack using recursion",
+        "link": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/"
+      },
+      {
+        "name": "Sort a Stack using recursion",
+        "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1"
+      },
+      {
+        "name": "Reverse a Queue using recursion",
+        "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1"
+      },
+      {
+        "name": "Reverse the first “K” elements of a queue",
+        "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1"
+      }
+    ],
+    "Medium": [
+      {
+        "name": "Arithmetic Expression evaluation",
+        "link": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/"
+      },
+      {
+        "name": "Merge Overlapping Intervals",
+        "link": "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0"
+      },
+      {
+        "name": "Expression contains redundant bracket or not",
+        "link": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/"
+      },
+      {
+        "name": "Implement \"N\" stacks in an Array",
+        "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+      },
+      {
+        "name": "Implement Stack using Deque",
+        "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/"
+      },
+      {
+        "name": "Implement a method to insert an element at its bottom without using any other data structure.",
+        "link": "https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/"
+      },
+      {
+        "name": "Stack Permutations (Check if an array is stack permutation of other)",
+        "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+      },
+      {
+        "name": "Implement \"n\" queue in an array",
+        "link": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/"
+      },
+      {
+        "name": "Implement a Circular queue",
+        "link": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/"
+      },
+      {
+        "name": "Interleave the first half of the queue with second half",
+        "link": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/"
+      },
+      {
+        "name": "Find the first circular tour that visits all Petrol Pumps",
+        "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1"
+      },
+      {
+        "name": "Distance of nearest cell having 1 in a binary matrix",
+        "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0"
+      },
+      {
+        "name": "First negative integer in every window of size “k”",
+        "link": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0"
+      },
+      {
+        "name": "Check if all levels of two trees are anagrams or not.",
+        "link": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/"
+      },
+      {
+        "name": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+        "link": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
+      },
+      {
+        "name": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+        "link": "https://practice.geeksforgeeks.org/problems/game-with-string/0"
+      },
+      {
+        "name": "Next Smaller Element",
+        "link": "https://www.geeksforgeeks.org/next-smaller-element/"
+      },
+      {
+        "name": "Find the next Greater element",
+        "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
+      }
+    ],
+    "Hard": [
+      {
+        "name": "Implement Stack from Scratch",
+        "link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
+      },
+      {
+        "name": "Implement Queue from Scratch",
+        "link": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
+      },
+      {
+        "name": "find the middle element of a stack",
+        "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+      },
+      {
+        "name": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+        "link": "https://practice.geeksforgeeks.org/problems/special-stack/1"
+      },
+      {
+        "name": "The celebrity Problem",
+        "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1"
+      },
+      {
+        "name": "Largest rectangular Area in Histogram",
+        "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0"
+      },
+      {
+        "name": "Length of the Longest Valid Substring",
+        "link": "https://practice.geeksforgeeks.org/problems/valid-substring0624/1"
+      },
+      {
+        "name": "LRU Cache Implementation",
+        "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
+      },
+      {
+        "name": "Minimum time required to rot all oranges",
+        "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0"
+      },
+      {
+        "name": "Queue based approach for first non-repeating character in a stream.",
+        "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+      }
+    ]
+  }
+},
+
   {
     "topic": "String",
     "problems": {
