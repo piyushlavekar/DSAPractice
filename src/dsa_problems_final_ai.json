@@ -1742,6 +1742,10 @@
         "link": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/"
       },
       {
+        "name":"Min Stack",
+        "link":"https://leetcode.com/problems/min-stack/"
+      },
+      {
         "name": "Implement \"N\" stacks in an Array",
         "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
       },
@@ -1806,6 +1810,10 @@
       {
         "name": "Implement Stack from Scratch",
         "link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
+      },
+      {
+        "name":"Longest Valid Parentheses",
+        "link":"https://leetcode.com/problems/longest-valid-parentheses/"
       },
       {
         "name": "Implement Queue from Scratch",
