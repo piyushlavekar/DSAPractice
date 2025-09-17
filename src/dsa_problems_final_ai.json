@@ -1804,6 +1804,18 @@
       {
         "name": "Find the next Greater element",
         "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
+      },
+      {
+        "name":"Count the Reversals",
+        "link":"https://www.geeksforgeeks.org/problems/count-the-reversals0401/1"
+      },
+      {
+        "name":"Online Stock Span",
+        "link":"https://leetcode.com/problems/online-stock-span/"
+      },
+      {
+        "name":"Simplify Path",
+        "link":"https://leetcode.com/problems/simplify-path/description/"
       }
     ],
     "Hard": [
